@@ -1,0 +1,37 @@
+.icon{
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    background-size: contain;
+}
+.icon-arrow{
+    background-image: url('../../assets/icon/angle.svg');
+    width: 12px;
+}
+.icon-option{
+    background-image: url('../../assets/icon/option.png');
+    width: 16px;
+}
+.icon-ava{
+    background-image: url('../../assets/icon/avatar-default.png');
+    width: 36px;
+}
+.icon-add{
+    background-image: url('../../assets/icon/add.png');
+    padding-left: 16px;
+}
+.icon-dashboard {
+    background-image: url('../../assets/icon/dashboard.png');
+}
+
+.icon-report {
+    background-image: url('../../assets/icon/report.png');
+}
+
+.icon-dic-employee {
+    background-image: url('../../assets/icon/dic-employee.png');
+}
+
+.icon-setting {
+    background-image: url('../../assets/icon/setting.png');
+}
